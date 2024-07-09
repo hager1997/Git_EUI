@@ -1,0 +1,4 @@
+data.txt
+*.png
+!c.png
+*.jpeg
